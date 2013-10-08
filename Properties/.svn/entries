@@ -1,0 +1,40 @@
+8
+
+dir
+88
+svn+ssh://jrp@eazel.es/var/lib/svn/escan/trunk/src/Engine/Properties
+svn+ssh://jrp@eazel.es/var/lib/svn/escan
+
+
+
+2007-08-01T13:53:57.664357Z
+2
+jbb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+08369526-3036-0410-a508-ffaf591ff508
+
+AssemblyInfo.cs
+file
+
+
+
+
+2008-04-23T04:30:26.000000Z
+94ef95e8a94451e233ad8fdcf548a2ce
+2007-08-01T13:53:57.664357Z
+2
+jbb
+

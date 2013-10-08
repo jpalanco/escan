@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Warning.cs" ctype="Workbench">
+    <Files>
+      <File FileName="ICilNode.cs" Line="1" Column="1" />
+      <File FileName="OpCode.cs" Line="16" Column="51" />
+      <File FileName="Warning.cs" Line="1" Column="1" />
+      <File FileName="Engine.cs" Line="490" Column="52" />
+      <File FileName="Program.cs" Line="17" Column="67" />
+      <File FileName="Source.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Escan.Engine" expanded="True" selected="True">
+            <Node name="References" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
