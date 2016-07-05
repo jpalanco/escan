@@ -1,0 +1,12 @@
+
+
+Compile example:
+
+javac -cp .:./apache-tomcat-6.0.45/lib/servlet-api.jar Test2.java
+
+
+Java to dotnet example:
+
+mono ikvm-7.2.4630.5/bin/ikvmc.exe  Test2.class 
+
+
